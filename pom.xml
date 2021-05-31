@@ -19,22 +19,6 @@
 	<name>Wiremock Proxy Transformer</name>
 	<description>A Wiremock extension to transform the url proxy.</description>
 
-	<developers>
-		<developer>
-			<name>Hung Tran</name>
-			<organization>Opentable</organization>
-			<organizationUrl>http://www.opentable.com/</organizationUrl>
-		</developer>
-	</developers>
-
-	<licenses>
-		<license>
-			<name>Apache License, Version 2.0</name>
-			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-			<distribution>repo</distribution>
-		</license>
-	</licenses>
-
 	<scm>
 		<connection>scm:git:git@github.com/tobiashcrz/wiremock-proxy-transformer.git</connection>
 		<developerConnection>scm:git:git@github.com:tobiashcrz/wiremock-proxy-transformer.git</developerConnection>
